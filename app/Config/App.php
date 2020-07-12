@@ -31,7 +31,7 @@ class App extends BaseConfig
 	| Typically this will be your index.php file, unless you
 	|
 	*/
-	public $indexPage = '';
+	public $indexPage = 'index.php';
 
 
 	public $uriProtocol = 'REQUEST_URI';
