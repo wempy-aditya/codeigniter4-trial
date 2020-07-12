@@ -23,14 +23,7 @@ class App extends BaseConfig
 	*/
 	public $baseURL = 'http://wempy.xyz/;
 
-	/*
-	|--------------------------------------------------------------------------
-	| Index File
-	|--------------------------------------------------------------------------
-	|
-	| Typically this will be your index.php file, unless you
-	|
-	*/
+
 	public $indexPage = 'index.php';
 
 
